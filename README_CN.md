@@ -423,20 +423,5 @@ PPT Master 目前主要由我开发维护。每个新模板、Bug 修复、文�
 &nbsp;
 <a href="https://m.do.co/c/547f129aabe1"><img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/PoweredByDO/DO_Powered_by_Badge_blue.svg" alt="Powered by DigitalOcean" height="40" /></a>
 
-**[想出现在这里？→](SPONSORING_CN.md)** —— 展示位置、受众数据与价格。
-
-**个人赞助**
-
-如果 PPT Master 帮到了你，任何金额的个人赞助都能帮助项目持续更新、保持免费开源。
-
-<a href="https://paypal.me/hugohe3"><img src="https://img.shields.io/badge/PayPal-赞助-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="通过 PayPal 赞助" /></a>
-
-<img src="docs/assets/alipay-qr.jpg" alt="支付宝收款码" width="220" />
-
----
-
-Made with ❤️ by [何雨果 Hugo He](https://www.hehugo.com/) — 如果这个项目对你有帮助，请给一个 ⭐，也欢迎[赞助支持](#赞助与支持)。
-
-<sub>官方发布渠道：<a href="https://github.com/hugohe3/ppt-master">GitHub</a>（主仓库）· <a href="https://atomgit.com/hugohe3/ppt-master">AtomGit</a>（镜像）。其他平台转发版本均为非官方版本。MIT 协议，使用需保留署名。</sub>
 
 [⬆ 回到顶部](#ppt-master--ai-生成原生-powerpoint支持任意文档输入)
